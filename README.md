@@ -1,4 +1,13 @@
 # mememolebot
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
+![Solana](https://img.shields.io/badge/Chain-Solana-purple?logo=solana)
+![Zero Cost](https://img.shields.io/badge/Cost-$0%20/month-brightgreen)
+![Status](https://img.shields.io/badge/Status-Alpha-orange)
+[![GitHub stars](https://img.shields.io/github/stars/neonmercenary/mememolebot.svg?style=social)](https://github.com/neonmercenary/mememolebot/stargazers)
+[![CI](https://github.com/neonmercenary/mememolebot/actions/workflows/ci.yml/badge.svg)](https://github.com/neonmercenary/mememolebot/actions)
+
 An always-free, lightning-fast Telegram micro-bot that watches the Solana chain for freshly-minted meme coins, scores them in real time, and hands you a ready-to-broadcast Jupiter swap, just one tap to ape. Zero custody, zero code bloat, zero hosting cost: the leanest way to catch the next 100× before it trends.
 
 
